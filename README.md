@@ -1,1 +1,1 @@
-# AR_Project 졸업작품
+# AR_Project
